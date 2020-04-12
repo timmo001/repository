@@ -1,5 +1,5 @@
 {
-  "name": "Home Assistant Community Add-ons",
-  "url": "https://addons.community",
+  "name": "Test Home Assistant Community Add-ons",
+  "url": "https://addons.community/test",
   "maintainer": "Franck Nijhof <frenck@addons.community>"
 }
